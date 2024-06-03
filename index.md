@@ -10,3 +10,7 @@ let myVar = 'char'
 ```csharp
 var input = Console.ReadLine();
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
